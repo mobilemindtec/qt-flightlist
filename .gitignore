@@ -1,0 +1,8 @@
+.idea
+.qmake.stash
+.qtc_clangd/
+*.pro.user*
+build/
+builds/
+.gradle
+google-services.json

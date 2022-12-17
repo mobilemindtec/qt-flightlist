@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>qml/components/ComboBoxCustom.qml</file>
+        <file>qml/components/CustomClip.qml</file>
+        <file>qml/components/Icon.qml</file>
+        <file>qml/components/TextBold.qml</file>
+        <file>qml/components/TextFieldSearch.qml</file>
+        <file>qml/components/TextNormal.qml</file>
+        <file>qml/components/AppFontLoader.qml</file>
+        <file>qml/components/ChoiceChip.qml</file>
+        <file>qml/components/DestinationItem.qml</file>
+        <file>assets/fonts/MaterialIcons-Regular.ttf</file>
+        <file>assets/fonts/OpenSans-Light.ttf</file>
+        <file>assets/fonts/OpenSans-SemiBold.ttf</file>
+        <file>assets/fonts/Oxygen-Bold.ttf</file>
+        <file>assets/fonts/Oxygen-Light.ttf</file>
+        <file>assets/fonts/Oxygen-Regular.ttf</file>
+        <file>assets/fonts/Raleway-Regular.ttf</file>
+        <file>assets/fonts/Raleway-SemiBold.ttf</file>
+        <file>assets/images/athens.jpg</file>
+        <file>assets/images/lasvegas.jpg</file>
+        <file>assets/images/sydney.jpeg</file>
+        <file>js/support/MaterialFont.js</file>
+        <file>qml/components/BottomMenuItem.qml</file>
+    </qresource>
+</RCC>
